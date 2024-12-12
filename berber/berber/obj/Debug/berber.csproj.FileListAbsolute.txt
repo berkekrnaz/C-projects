@@ -1,0 +1,10 @@
+C:\Users\B\Desktop\Coding\berber\berber\bin\Debug\berber.exe.config
+C:\Users\B\Desktop\Coding\berber\berber\bin\Debug\berber.exe
+C:\Users\B\Desktop\Coding\berber\berber\bin\Debug\berber.pdb
+C:\Users\B\Desktop\Coding\berber\berber\obj\Debug\berber.csproj.AssemblyReference.cache
+C:\Users\B\Desktop\Coding\berber\berber\obj\Debug\berber.Form1.resources
+C:\Users\B\Desktop\Coding\berber\berber\obj\Debug\berber.Properties.Resources.resources
+C:\Users\B\Desktop\Coding\berber\berber\obj\Debug\berber.csproj.GenerateResource.cache
+C:\Users\B\Desktop\Coding\berber\berber\obj\Debug\berber.csproj.CoreCompileInputs.cache
+C:\Users\B\Desktop\Coding\berber\berber\obj\Debug\berber.exe
+C:\Users\B\Desktop\Coding\berber\berber\obj\Debug\berber.pdb
